@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SL Engine="1100">
+	<E K="BwBlue" V="55" />
+	<E K="BwCyan" V="66" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="50.3896102905273" />
+	<E K="BwMagenta" V="70" />
+	<E K="BwRed" V="45" />
+	<E K="BwYellow" V="35" />
+	<E K="Clarity" V="10" />
+	<E K="ClarityMethod" V="3" />
+	<E K="Contrast" V="-10" />
+	<E K="FilmGrainAmount" V="59" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="90" />
+	<E K="FilmGrainType" V="2" />
+	<E K="GradationCurve" V="0,0;0.222000002861023,0.11745098233223;0.398999989032745,0.30129411816597;0.638000011444092,0.653725504875183;0.7579505443573,0.821447193622589;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="HighlightRecoveryEx" V="-10" />
+	<E K="Name" V="Ilford Delta 3200 - low contrast" />
+	<E K="ShadowRecovery" V="10" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="5D018CFA-B701-4044-9031-56D10612D2EF" />
+</SL>

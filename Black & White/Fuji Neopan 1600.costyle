@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<SL Engine="1100">
+	<E K="Brightness" V="-3" />
+	<E K="BwBlue" V="-20" />
+	<E K="BwCyan" V="13" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-17" />
+	<E K="BwMagenta" V="17" />
+	<E K="BwRed" V="-13" />
+	<E K="BwYellow" V="20" />
+	<E K="Contrast" V="-5" />
+	<E K="FilmGrainAmount" V="88" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="24" />
+	<E K="FilmGrainType" V="1" />
+	<E K="GradationCurve" V="0,0;0.145999997854233,0.0670000016689301;0.268078446388245,0.202000007033348;0.496452629566193,0.497619032859802;0.714533567428589,0.774952411651611;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="HighlightRecoveryEx" V="-5" />
+	<E K="Name" V="Fuji Neopan 1600" />
+	<E K="ShadowRecovery" V="5" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="7CAC6859-DD32-428F-84AD-07A137C42D3D" />
+</SL>

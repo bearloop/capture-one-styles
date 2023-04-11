@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SL Engine="1300">
+	<E K="Clarity" V="9" />
+	<E K="ClarityMethod" V="3" />
+	<E K="ClarityStructure" V="18" />
+	<E K="FilmCurve" V="NikonZ6II-Linear Response.fcrv" />
+	<E K="GradationCurve" V="0,0;0.0617283955216408,0.0866666659712791;0.118518516421318,0.176666662096977;0.42469134926796,0.656666696071625;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="HighlightRecoveryEx" V="-48" />
+	<E K="ICCProfile" V="NikonZ6II-ProStandard.icm" />
+	<E K="Name" V="VMSelection - ProStandard NZ6II linear curve" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="CBAF529C-F01B-491F-AE50-BC6C7099286D" />
+	<E K="WhiteRecovery" V="-24" />
+</SL>

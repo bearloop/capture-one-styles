@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SL Engine="1300">
+	<E K="BlackRecovery" V="52.7705421447754" />
+	<E K="Brightness" V="-3.92795133590698" />
+	<E K="Clarity" V="-4.765625" />
+	<E K="ClarityMethod" V="3" />
+	<E K="ClarityStructure" V="27.8515625" />
+	<E K="Contrast" V="-10.4419851303101" />
+	<E K="Exposure" V="0.878472208976746" />
+	<E K="FilmCurve" V="FujiXE4-Fujifilm ETERNA (CINEMA).fcrv" />
+	<E K="HighlightRecoveryEx" V="-24.0017356872559" />
+	<E K="Name" V="Washed Out" />
+	<E K="Saturation" V="28.4577541351318" />
+	<E K="ShadowRecovery" V="49.927661895752" />
+	<E K="UUID" V="C92F3AC5-CAED-4D04-91E3-3449DD15AF5E" />
+	<E K="Vignetting" V="-0.256944447755814|1|0|0" />
+	<E K="WhiteBalance" V="2.37767767906189;1;1.63080942630768" />
+	<E K="WhiteBalanceTemperature" V="6340" />
+	<E K="WhiteBalanceTint" V="8.00015640258789" />
+	<E K="WhiteRecovery" V="-100" />
+</SL>

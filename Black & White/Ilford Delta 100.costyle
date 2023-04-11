@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SL Engine="1100">
+	<E K="BwBlue" V="55" />
+	<E K="BwCyan" V="64" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="56" />
+	<E K="BwMagenta" V="72" />
+	<E K="BwRed" V="55" />
+	<E K="BwYellow" V="40" />
+	<E K="Clarity" V="10" />
+	<E K="ClarityMethod" V="3" />
+	<E K="ClarityStructure" V="15" />
+	<E K="FilmGrainAmount" V="47.7389984130859" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="19.5979995727539" />
+	<E K="FilmGrainType" V="2" />
+	<E K="GradationCurve" V="0,0;0.172999992966652,0.0900000035762787;0.625999987125397,0.671999990940094;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="Name" V="Ilford Delta 100" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="2806C554-9369-4E4A-BF60-1EA4CAD37089" />
+</SL>

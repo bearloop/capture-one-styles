@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<SL Engine="1100">
+	<E K="BwBlue" V="40" />
+	<E K="BwCyan" V="35" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="10" />
+	<E K="BwMagenta" V="5" />
+	<E K="BwRed" V="30" />
+	<E K="BwYellow" V="40" />
+	<E K="Clarity" V="25" />
+	<E K="ClarityMethod" V="3" />
+	<E K="ClarityStructure" V="10" />
+	<E K="Contrast" V="-10" />
+	<E K="FilmGrainAmount" V="76" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="63.3170013427734" />
+	<E K="FilmGrainType" V="3" />
+	<E K="GradationCurve" V="0.0271764770150185,0;0.180999994277954,0.111686274409294;0.435999989509583,0.428999990224838;0.620999991893768,0.681941151618958;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecoveryEx" V="-25" />
+	<E K="Midtone" V="0;0;0;0" />
+	<E K="Name" V="Kodak TMAX 400" />
+	<E K="Shadow" V="0;0;0;0" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="5C742EDC-27FC-47DE-BF98-C8288F84DEEA" />
+</SL>

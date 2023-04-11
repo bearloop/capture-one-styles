@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SL Engine="1100">
+	<E K="BwBlue" V="69" />
+	<E K="BwCyan" V="39" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="54" />
+	<E K="BwMagenta" V="43" />
+	<E K="BwRed" V="48" />
+	<E K="BwYellow" V="8" />
+	<E K="Contrast" V="-10" />
+	<E K="FilmGrainAmount" V="87.4369964599609" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="40.201000213623" />
+	<E K="FilmGrainType" V="4" />
+	<E K="GradationCurve" V="0,0;0.107760049402714,0.0595424100756645;0.326841324567795,0.252819716930389;0.509999990463257,0.474999994039536;0.686999976634979,0.697865605354309;0.807406663894653,0.832651674747467;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="HighlightRecoveryEx" V="-3.24675321578979" />
+	<E K="Name" V="Ilford HP5 Plus 400 - low contrast" />
+	<E K="ShadowRecovery" V="3.24675321578979" />
+	<E K="StyleSource" V="Styles" />
+	<E K="UUID" V="2000E954-3FF9-4DBD-9631-461374F94455" />
+</SL>
